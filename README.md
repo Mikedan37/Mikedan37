@@ -2,5 +2,5 @@
 - I’m interested in Electrical Engineering, Mobile and Web Application Development, AI/Machine Learning and Embedded Programming
 - Languages i'm familiar with: Swift, Java, Python, C++, C, HTML, CSS, Verilog, Matlab, TypeScript, Javascript, x86 and ARM Assembly
 - I’m looking to collaborate on anything including but not limited to; new websites/apps, tools/frameworks, cool tech.
-- Currently im working on a Raspberry Pi Phone with a Linux based mobile os, designing a cpu using an FPGA and mantaining a group project called BoxBox.ai
+- Currently im working on wiring and programming a Raspberry Pi based Phone with a Linux mobile os, designing a cpu using an FPGA and mantaining a group project called BoxBox.ai
 - How to reach me: mn_danylchuk@yahoo.com
