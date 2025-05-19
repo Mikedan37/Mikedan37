@@ -1,6 +1,28 @@
-- Hi, My name is Michael Danylchuk
-- I’m interested in Electrical Engineering, Mobile and Web Application Development, AI/Machine Learning and Embedded Programming
-- Languages i'm familiar with: Swift, Java, Python, C++, C, HTML, CSS, Verilog, Matlab, TypeScript, Javascript, x86 and ARM Assembly
-- I’m looking to collaborate on anything including but not limited to; new websites/apps, tools/frameworks, cool tech.
-- Currently im working on wiring and programming a Raspberry Pi based Phone with a Linux mobile os, designing a cpu using an FPGA and mantaining a group project called BoxBox.ai
-- How to reach me: mn_danylchuk@yahoo.com
+# Hi, I’m Michael Danylchuk
+
+I'm an Electrical Engineering student and software developer interested in systems engineering, mobile/web development, AI/ML, and embedded platforms. I bridge low-level hardware knowledge with full-stack app experience — and I'm always building.
+
+### What I Do
+- iOS/macOS apps with Swift + SwiftUI
+- Raspberry Pi projects (custom Linux phone, AI servers, NAS, etc.)
+- Embedded systems (FPGA CPU design, Verilog, microcontroller dev)
+- Full-stack development (Vapor, Flask, Mail clients, CI tools)
+
+### Languages I Use
+`Swift`, `Python`, `C++`, `C`, `Java`, `TypeScript`, `JavaScript`,  
+`Verilog`, `Matlab`, `HTML/CSS`, `x86` & `ARM` Assembly
+
+### Projects I'm Working On
+- **Raspberry Pi Phone**: Linux-based mobile OS with GPIO integrations  
+- **FPGA CPU**: Custom-designed processor using Verilog on a Real Digital board  
+- **BoxBox.ai**: Smart collaboration tool for project coordination and AI utilities  
+- **SecureMailClient**: Encrypted, Vapor-backed private email client for iOS/macOS
+
+### Open to Collaborate On
+- Tools, frameworks, open-source utilities
+- Embedded or mobile-first apps
+- Secure infrastructure or AI/ML workflows
+
+### How to Reach Me
+📧 mn_danylchuk@yahoo.com  
+🔗 [LinkedIn](https://linkedin.com/in/michaeldanylchuk) 
