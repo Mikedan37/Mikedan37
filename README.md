@@ -1,6 +1,6 @@
 # Hi, I’m Michael Danylchuk
 
-I'm an Electrical Engineering student and software developer interested in systems engineering, mobile/web development, AI/ML, and embedded platforms. I bridge low-level hardware knowledge with full-stack app experience — and I'm always building.
+I'm an Electrical Engineering student and software developer interested in systems engineering, mobile/web development, AI/ML, and embedded platforms. I bridge low-level hardware knowledge with full-stack app experience; and I'm always building.
 
 ### What I Do
 - iOS/macOS apps with Swift + SwiftUI
