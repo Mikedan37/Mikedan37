@@ -24,6 +24,6 @@ I'm an Electrical Engineering student and software developer interested in syste
 - Secure infrastructure or AI/ML workflows
 
 ### How to Reach Me
-📧 mn_danylchuk@yahoo.com  
+📧 mn_danylchuk@yahoo.com | founder@danylchukstudios.dev
 🔗 [LinkedIn](https://linkedin.com/in/michaeldanylchuk)  
 
