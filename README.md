@@ -26,3 +26,6 @@ I'm an Electrical Engineering student and software developer interested in syste
 ### How to Reach Me
 📧 mn_danylchuk@yahoo.com  
 🔗 [LinkedIn](https://linkedin.com/in/michaeldanylchuk) 
+Founder @ Danylchuk Studio | https://danylchukstudio.dev
+
+
