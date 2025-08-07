@@ -28,7 +28,6 @@ I'm an Electrical Engineering student and software developer passionate about sy
 - [`PiPhoneOS`](https://github.com/yourusername/PiPhoneOS) – A Raspberry Pi–based open mobile OS with touchscreen UI, battery management, and AT command integration.
 - [`AsciiMultiplayerTerminalPong`](https://github.com/yourusername/ASCIIMultiplayerTerminalPong) – Terminal-based real-time multiplayer Pong using Python and UDP networking.
 - [`SJSUSeniorDesign_MIDIKeyboard_SoundEngine`](https://github.com/yourusername/SJSUSeniorDesign_MIDIKeyboard_SoundEngine) – RP2040 USB keyboard that doubles as a MIDI controller, paired with a macOS-hosted Python synth and driver.
-- [`TestGenBar`](https://github.com/yourusername/TestGenBar) – Swift menu extra that generates tests for selected functions using GPT + context comments. Xcode-native, developer-focused.
 
 ---
 
