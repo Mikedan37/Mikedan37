@@ -1,29 +1,54 @@
 # Hi, I’m Michael Danylchuk
 
-I'm an Electrical Engineering student and software developer interested in systems engineering, mobile/web development, AI/ML, and embedded platforms. I bridge low-level hardware knowledge with full-stack app experience; and I'm always building.
+I'm an Electrical Engineering student and software developer passionate about systems engineering, embedded platforms, and secure developer tools. I bridge low-level hardware knowledge with full-stack development experience — always shipping, always building.
 
-### What I Do
-- iOS/macOS apps with Swift + SwiftUI
-- Raspberry Pi projects (custom Linux phone, AI servers, NAS, etc.)
-- Embedded systems (FPGA CPU design, Verilog, microcontroller dev)
-- Full-stack development (Vapor, Flask, Mail clients, CI tools)
+---
 
-### Languages I Use
-`Swift`, `Python`, `C++`, `C`, `Java`, `TypeScript`, `JavaScript`,  
-`Verilog`, `Matlab`, `HTML/CSS`, `x86` & `ARM` Assembly
+## ⚙️ What I Do
 
-### Projects I'm Working On
-- **Raspberry Pi Phone**: Linux-based mobile OS with GPIO integrations  
-- **FPGA CPU**: Custom-designed processor using Verilog on a Real Digital board  
-- **BoxBox.ai**: Smart collaboration tool for project coordination and AI utilities  
-- **SecureMailClient**: Encrypted, Vapor-backed private email client for iOS/macOS
+- **iOS/macOS Apps** — Swift + SwiftUI, Sparkle, AppKit, concurrency, CLI integrations
+- **Embedded Systems** — RP2040, FPGA CPU design, USB MIDI firmware, Verilog, C/ASM
+- **AI + Developer Tools** — GPT-powered PR bots, test generators, source editor extensions
+- **Full Stack Engineering** — Vapor, Flask, custom mail protocols, IMAP/SMTP sync engines
+- **Raspberry Pi Projects** — Custom Linux phone, local AI servers, menu extras, NAS
 
-### Open to Collaborate On
-- Tools, frameworks, open-source utilities
-- Embedded or mobile-first apps
-- Secure infrastructure or AI/ML workflows
+---
 
-### How to Reach Me
-📧 mn_danylchuk@yahoo.com | founder@danylchukstudios.dev  
-🔗 [LinkedIn](https://linkedin.com/in/michaeldanylchuk)
+## 💻 Languages I Use
+
+`Swift`, `Python`, `C++`, `C`, `Verilog`, `TypeScript`, `Java`, `HTML/CSS`, `Assembly`, `Matlab`
+
+---
+
+## 🚀 Highlight Projects
+
+- [`SecureMailClient`](https://github.com/yourusername/SecureMailClient) – Fully native encrypted mail client using a custom Swift/Vapor mail protocol. Features burn-after-read, IMAP/SMTP integration, and CryptoKit support.
+- [`BlazeDB`](https://github.com/yourusername/BlazeDB) – Encrypted Swift-native database with a dynamic schema DSL, index support, and blazing-fast local queries.
+- [`DesktopOrganizer`](https://github.com/yourusername/DesktopOrganizer) – Time-travel your macOS desktop with hourly backups, snapshot previews, and AI-based file classification. Menu extra included.
+- [`PiPhoneOS`](https://github.com/yourusername/PiPhoneOS) – A Raspberry Pi–based open mobile OS with touchscreen UI, battery management, and AT command integration.
+- [`AsciiMultiplayerTerminalPong`](https://github.com/yourusername/ASCIIMultiplayerTerminalPong) – Terminal-based real-time multiplayer Pong using Python and UDP networking.
+- [`SJSUSeniorDesign_MIDIKeyboard_SoundEngine`](https://github.com/yourusername/SJSUSeniorDesign_MIDIKeyboard_SoundEngine) – RP2040 USB keyboard that doubles as a MIDI controller, paired with a macOS-hosted Python synth and driver.
+- [`TestGenBar`](https://github.com/yourusername/TestGenBar) – Swift menu extra that generates tests for selected functions using GPT + context comments. Xcode-native, developer-focused.
+
+---
+
+## 🧠 Open to Collaborate On
+
+- Secure-by-default open source tools
+- Swift developer infrastructure
+- Embedded hardware/firmware platforms
+- Cross-platform CLI or desktop utilities
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [mn_danylchuk@yahoo.com](mailto:mn_danylchuk@yahoo.com) or [founder@danylchukstudios.dev](mailto:founder@danylchukstudios.dev)
+- 🔗 [LinkedIn](https://linkedin.com/in/michaeldanylchuk)
+- 🌐 [Website](https://danylchuk.dev)
+
+---
+
+> Building what I wish existed. From the silicon to the UI.
+
 
