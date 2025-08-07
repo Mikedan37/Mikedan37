@@ -44,7 +44,7 @@ I'm an Electrical Engineering student and software developer passionate about sy
 
 - 📧 Email: [mn_danylchuk@yahoo.com](mailto:mn_danylchuk@yahoo.com) or [founder@danylchukstudios.dev](mailto:founder@danylchukstudios.dev)
 - 🔗 [LinkedIn](https://linkedin.com/in/michaeldanylchuk)
-- 🌐 [Website](https://danylchukstudios.dev)
+- 🌐 [Portfolio + Studio](https://danylchukstudios.dev)
 
 ---
 
