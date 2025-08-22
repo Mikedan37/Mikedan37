@@ -1,53 +1,53 @@
-# Hi, I’m Michael Danylchuk
+# Hi, I’m Michael Danylchuk  
 
-I'm an Electrical Engineering student and software developer passionate about systems engineering, embedded platforms, and secure developer tools. I bridge low-level hardware knowledge with full-stack development experience — always shipping, always building.
+Electrical Engineering student & software engineer building at the intersection of **platform security, developer tools, and embedded systems**.  
+I bridge low-level hardware with full-stack software — from custom PCBs and firmware to Swift-native databases and macOS/iOS apps.  
 
----
-
-## ⚙️ What I Do
-
-- **iOS/macOS Apps** — Swift + SwiftUI, Sparkle, AppKit, concurrency, CLI integrations
-- **Embedded Systems** — RP2040, FPGA CPU design, USB MIDI firmware, Verilog, C/ASM
-- **AI + Developer Tools** — GPT-powered PR bots, test generators, source editor extensions
-- **Full Stack Engineering** — Vapor, Flask, custom mail protocols, IMAP/SMTP sync engines
-- **Raspberry Pi Projects** — Custom Linux phone, local AI servers, menu extras, NAS
+Always shipping. Always building.  
 
 ---
 
-## 💻 Languages I Use
+## What I Do  
 
-`Swift`, `Python`, `C++`, `C`, `Verilog`, `TypeScript`, `Java`, `HTML/CSS`, `Assembly`, `Matlab`
-
----
-
-## 🚀 Highlight Projects
-
-- [`SecureMailClient`](https://github.com/yourusername/SecureMailClient) – Fully native encrypted mail client using a custom Swift/Vapor mail protocol. Features burn-after-read, IMAP/SMTP integration, and CryptoKit support.
-- [`BlazeDB`](https://github.com/yourusername/BlazeDB) – Encrypted Swift-native database with a dynamic schema DSL, index support, and blazing-fast local queries.
-- [`DesktopOrganizer`](https://github.com/yourusername/DesktopOrganizer) – Time-travel your macOS desktop with hourly backups, snapshot previews, and AI-based file classification. Menu extra included.
-- [`PiPhoneOS`](https://github.com/yourusername/PiPhoneOS) – A Raspberry Pi–based open mobile OS with touchscreen UI, battery management, and AT command integration.
-- [`AsciiMultiplayerTerminalPong`](https://github.com/yourusername/ASCIIMultiplayerTerminalPong) – Terminal-based real-time multiplayer Pong using Python and UDP networking.
-- [`SJSUSeniorDesign_MIDIKeyboard_SoundEngine`](https://github.com/yourusername/SJSUSeniorDesign_MIDIKeyboard_SoundEngine) – RP2040 USB keyboard that doubles as a MIDI controller, paired with a macOS-hosted Python synth and driver.
+- **Apple Platforms** — Swift, SwiftUI, AppKit, Sparkle, Xcode tooling, concurrency  
+- **Systems & Embedded** — RP2040, FPGA CPUs, USB MIDI firmware, Verilog, C/ASM  
+- **Developer Tools & AI** — GPT-powered PR bots, test generators, Xcode extensions  
+- **Infra & Protocols** — Vapor, IMAP/SMTP sync, secure mail protocols, Raspberry Pi  
 
 ---
 
-## 🧠 Open to Collaborate On
+## Languages  
 
-- Secure-by-default open source tools
-- Swift developer infrastructure
-- Embedded hardware/firmware platforms
-- Cross-platform CLI or desktop utilities
+`Swift`, `Python`, `C/C++`, `Verilog`, `Assembly`, `JavaScript/TypeScript`, `HTML/CSS`  
 
 ---
 
-## 📫 How to Reach Me
+## Highlight Projects  
 
-- 📧 Email: [mn_danylchuk@yahoo.com](mailto:mn_danylchuk@yahoo.com) or [founder@danylchukstudios.dev](mailto:founder@danylchukstudios.dev)
-- 🔗 [LinkedIn](https://linkedin.com/in/michaeldanylchuk)
-- 🌐 [Portfolio + Studio](https://danylchukstudios.dev)
+- [**SecureMailClient**](https://github.com/yourusername/SecureMailClient) – Native encrypted mail client with burn-after-read, IMAP/SMTP integration, and a Vapor backend.  
+- [**BlazeDB**](https://github.com/yourusername/BlazeDB) – Swift-native encrypted database with schemas, indexes, AES-GCM, and a query DSL.  
+- [**Blazel**](https://github.com/yourusername/Blazel) – A Swift DSL + runtime interpreter enabling live updates, feature flags, and A/B testing.  
+- [**DesktopOrganizer**](https://github.com/yourusername/DesktopOrganizer) – macOS menu extra with AI-powered file classification, timeline snapshots, and AppleScript automation.  
+- [**PiPhoneOS**](https://github.com/yourusername/PiPhoneOS) – Raspberry Pi–based open mobile OS with touchscreen UI, battery management, and AT command integration.  
+- [**MIDI Keyboard & Synth**](https://github.com/yourusername/SJSUSeniorDesign_MIDIKeyboard_SoundEngine) – Senior design project: USB-powered MIDI keyboard with custom PCB + Python/C synth + driver.  
 
 ---
 
-> Building what I wish existed. From the silicon to the UI.
+## Open to Collaborate On  
 
+- Secure-by-default open source tools  
+- Swift developer infrastructure & Xcode extensions  
+- Embedded hardware + firmware platforms  
+- Cross-platform CLI or desktop utilities  
 
+---
+
+## How to Reach Me  
+
+📧 [mn_danylchuk@yahoo.com](mailto:mn_danylchuk@yahoo.com)  
+🔗 [LinkedIn](https://linkedin.com/in/michaeldanylchuk)  
+🌐 [Portfolio + Studio](https://danylchukstudios.dev)  
+
+---
+
+>  Building what I wish existed. From the silicon to the UI.
