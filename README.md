@@ -44,7 +44,6 @@ I bridge low-level hardware with full-stack software — from custom PCBs and fi
 
 📧 [mn_danylchuk@yahoo.com](mailto:mn_danylchuk@yahoo.com)  
 🔗 [LinkedIn](https://linkedin.com/in/michaeldanylchuk)  
-🌐 [Portfolio + Studio](https://danylchukstudios.dev)  
 
 ---
 
