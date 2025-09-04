@@ -1,50 +1,45 @@
-# Hi, I’m Michael Danylchuk  
+# Mikedan37
 
-Electrical Engineering student & software engineer building at the intersection of **platform security, developer tools, and embedded systems**.  
-I bridge low-level hardware with full-stack software — from custom PCBs and firmware to Swift-native databases and macOS/iOS apps.  
+**Full-stack platform engineer bridging hardware, Apple platforms & secure backends**
 
----
-
-## What I Do  
-
-- **Apple Platforms** — Swift, SwiftUI, AppKit, Sparkle, Xcode tooling, concurrency  
-- **Systems & Embedded** — RP2040, FPGA CPUs, USB MIDI firmware, Verilog, C/ASM  
-- **Developer Tools & AI** — GPT-powered PR bots, test generators, Xcode extensions  
-- **Infra & Protocols** — Vapor, IMAP/SMTP sync, secure mail protocols, Raspberry Pi  
+Swift • Embedded • Security • Developer Tools
 
 ---
 
-## Languages  
+## About Me
 
-`Swift`, `Python`, `C/C++`, `Verilog`, `Assembly`, `JavaScript/TypeScript`, `HTML/CSS`  
+I'm a full-stack platform engineer building secure-by-default solutions from hardware to cloud. My experience spans App Attest tooling at Apple, custom USB-MIDI firmware, encrypted mail clients, and Swift-native databases.
+
+**Currently focused on:** Secure developer tools, Apple platform infrastructure, and embedded products.
+
+## Key Projects
+
+### Security & Privacy
+- **[SecureMailClient](https://github.com/Mikedan37/securemailclient)** - Encrypted mail client with IMAP/SMTP sync, Vapor backend, burn-after-read functionality
+- **[BlazeDB](https://github.com/Mikedan37/blazedb)** - Swift-native database with schemas, secondary indexes, query DSL, encrypted-at-rest storage
+
+### Apple Platforms  
+- **[Blazel](https://github.com/Mikedan37/blazel)** - Swift DSL and runtime for live updates, feature flags, A/B testing with zero-downtime deployments
+- **[DesktopOrganizer](https://github.com/Mikedan37/desktoporganizer)** - macOS menu extra with AI file classification, timeline snapshots, AppleScript automation
+
+### Embedded & Hardware
+- **[PiPhoneOS](https://github.com/Mikedan37/piphoneos)** - Raspberry Pi mobile OS with touchscreen UI, battery management, AT command integration
+- **[MIDI Keyboard & Synth](https://github.com/Mikedan37/midi-synth)** - Custom PCB with USB-MIDI firmware, Python/C synthesizer, senior design project
+
+## Skills
+
+**Apple Platforms:** Swift, SwiftUI, AppKit, Combine/Concurrency, Xcode tooling, Sparkle  
+**Systems & Embedded:** RP2040, Verilog/FPGA, USB, UART/I2C/SPI, C/ASM, PCB design  
+**Security & Infra:** App Attest familiarity, Vapor, TLS, IMAP/SMTP, protocol design, Raspberry Pi  
+**Dev Tools & AI:** GPT-assisted PR bots, test generation, static analysis, Xcode extensions  
+**Languages:** Swift, Python, C/C++, Verilog, Assembly, TypeScript
+
+## Contact
+
+**Email:** mn_danylchuk@yahoo.com  
+**LinkedIn:** [Connect with me](https://linkedin.com/in/mikedan37)  
+**GitHub:** [@Mikedan37](https://github.com/Mikedan37)
 
 ---
 
-## Highlight Projects  
-
-- [**SecureMailClient**](https://github.com/michaeldanylchuk/SecureMailClient) – Native encrypted mail client with burn-after-read, IMAP/SMTP integration, and a Vapor backend.  
-- [**BlazeDB**](https://github.com/michaeldanylchuk/BlazeDB) – Swift-native database with schemas, indexes, and a query DSL.  
-- [**Blazel**](https://github.com/michaeldanylchuk/Blazel) – A Swift DSL + runtime interpreter enabling live updates, feature flags, and A/B testing.  
-- [**DesktopOrganizer**](https://github.com/michaeldanylchuk/DesktopOrganizer) – macOS menu extra with AI-powered file classification, timeline snapshots, and AppleScript automation.  
-- [**PiPhoneOS**](https://github.com/michaeldanylchuk/PiPhoneOS) – Raspberry Pi–based open mobile OS with touchscreen UI, battery management, and AT command integration.  
-- [**MIDI Keyboard & Synth**](https://github.com/michaeldanylchuk/SJSUSeniorDesign_MIDIKeyboard_SoundEngine) – Senior design project: USB-powered MIDI keyboard with custom PCB + Python/C synth + driver.  
-
----
-
-## Open to Collaborate On  
-
-- Secure-by-default open source tools  
-- Swift developer infrastructure & Xcode extensions  
-- Embedded hardware + firmware platforms  
-- Cross-platform CLI or desktop utilities  
-
----
-
-## How to Reach Me  
-
-📧 [mn_danylchuk@yahoo.com](mailto:mn_danylchuk@yahoo.com)  
-🔗 [LinkedIn](https://linkedin.com/in/michaeldanylchuk)  
-
----
-
-> Building what I wish existed. From the silicon to the UI.
+*Building secure-by-default solutions from hardware to cloud*
