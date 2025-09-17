@@ -8,7 +8,7 @@ Swift • Embedded • Security • Developer Tools
 
 ## About Me
 
-I'm a full-stack platform engineer building secure-by-default solutions from hardware to cloud. My experience spans App Attest tooling at Apple, custom USB-MIDI firmware, encrypted mail clients, and Swift-native databases.
+I'm a full-stack platform engineer building secure-by-default solutions from hardware to cloud. Experienced with App Attest APIs and DeviceCheck framework from professional work, custom USB-MIDI firmware, encrypted mail clients, and Swift-native databases.
 
 **Currently focused on:** Secure developer tools, Apple platform infrastructure, and embedded products.
 
