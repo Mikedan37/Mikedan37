@@ -22,7 +22,6 @@ I'm a full-stack platform engineer building secure-by-default solutions from har
 - **[DesktopOrganizer](https://github.com/Mikedan37/desktoporganizer)** - macOS menu extra with AI file classification, timeline snapshots, AppleScript automation
 
 ### Embedded & Hardware
-- **[PiPhoneOS](https://github.com/Mikedan37/piphoneos)** - Raspberry Pi mobile OS with touchscreen UI, battery management, AT command integration
 - **[MIDI Keyboard & Synth](https://github.com/Mikedan37/midi-synth)** - Custom PCB with USB-MIDI firmware, Python/C synthesizer, senior design project
 
 ## Skills
