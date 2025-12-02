@@ -19,7 +19,6 @@ I'm a full-stack platform engineer building secure-by-default solutions from har
 - **[BlazeDB](https://github.com/Mikedan37/blazedb)** - Swift-native database with schemas, secondary indexes, query DSL, encrypted-at-rest storage
 
 ### Apple Platforms  
-- **[Blazel](https://github.com/Mikedan37/blazel)** - Swift DSL and runtime for live updates, feature flags, A/B testing with zero-downtime deployments
 - **[DesktopOrganizer](https://github.com/Mikedan37/desktoporganizer)** - macOS menu extra with AI file classification, timeline snapshots, AppleScript automation
 
 ### Embedded & Hardware
