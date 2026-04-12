@@ -4,7 +4,8 @@
 
 <br/>
 
-Systems engineer. Previously **Apple** · Mac Catalyst · DeviceCheck & App Attest  
+Systems engineer. Previously **Apple**  
+Developer Tools · Mac Catalyst · DeviceCheck & App Attestation · Trust & Safety  
 Now building infrastructure, developer tools, and product-facing systems.
 
 <br/>
