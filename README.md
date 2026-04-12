@@ -1,25 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Michael%20Danylchuk&fontSize=44&fontColor=e6edf3&fontAlignY=32&desc=Founder%2C%20Danylchuk%20Studios%2C%20LLC&descSize=18&descAlignY=52&descColor=58a6ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=600&lines=Systems+%E2%80%A2+Developer+Tools+%E2%80%A2+Security" alt="Systems • Developer Tools • Security" />
+# Michael Danylchuk
 
-<br/>
-
-<p>
-  <em>I build systems that still behave when things go wrong — especially in products people actually use.</em>
-</p>
+**Founder, Danylchuk Studios, LLC**
 
 <p>
-  Previously built internal tools used across <strong>Apple</strong> engineering teams and worked on <strong>Trust & Safety</strong> systems.
+  <img src="https://img.shields.io/badge/Systems-161b22?style=flat" />
+  <img src="https://img.shields.io/badge/Developer%20Tools-161b22?style=flat" />
+  <img src="https://img.shields.io/badge/Security-161b22?style=flat" />
 </p>
+
+I build systems that still behave when things go wrong — especially in products people actually use.
+
+Previously built internal tools used across **Apple** engineering teams and worked on **Trust & Safety** systems.
 
 <br/>
 
 <a href="https://github.com/Mikedan37?tab=repositories">
-  <img src="https://img.shields.io/badge/Open%20Source-Projects-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" />
+  <img src="https://img.shields.io/badge/GitHub-Repositories-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/michael-danylchuk-817b40148">
@@ -30,17 +32,13 @@
   <img src="https://img.shields.io/badge/Email-Contact-8b949e?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
 
-<br/><br/>
-
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## Things I've Built
+---
 
-> Open-source infrastructure and tooling — built from scratch.
+## Things I've Built
 
 <table>
   <thead>
@@ -77,15 +75,9 @@
   </tbody>
 </table>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+---
 
 ## Shipped Products
-
-> Real products, real users — built end to end and launched.
 
 <table>
   <tr>
@@ -108,34 +100,11 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## Focus Areas
-
-<table>
-  <tr>
-    <td width="50%"><strong>Reliability & Correctness</strong><br/><sub>Systems that handle edge cases and failure without surprises. Validation over assumption.</sub></td>
-    <td width="50%"><strong>Developer Tooling</strong><br/><sub>Reducing debugging and operational friction through better primitives.</sub></td>
-  </tr>
-  <tr>
-    <td><strong>Low-Level Infrastructure</strong><br/><sub>Storage engines, custom protocols, IPC, and embedded systems.</sub></td>
-    <td><strong>Product Engineering</strong><br/><sub>Shipping real software to real users — not just prototypes.</sub></td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+---
 
 <div align="center">
 
-### Let's Connect
+<br/>
 
 <a href="https://www.linkedin.com/in/michael-danylchuk-817b40148">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -150,7 +119,5 @@
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
