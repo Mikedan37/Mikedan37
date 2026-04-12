@@ -58,7 +58,7 @@ Now building infrastructure, developer tools, and product-facing systems.
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <br/>
       <a href="https://www.sweepdesk.danylchukstudios.dev">
         <img src="https://img.shields.io/badge/SweepDesk-Visit%20Site-58a6ff?style=for-the-badge" />
@@ -66,13 +66,21 @@ Now building infrastructure, developer tools, and product-facing systems.
       <br/><br/>
       <p>macOS utility for desktop organization, built on a transaction-based file engine with crash recovery.</p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <br/>
       <a href="https://www.seekerscore.com">
         <img src="https://img.shields.io/badge/Seeker-Visit%20Site-58a6ff?style=for-the-badge" />
       </a>
       <br/><br/>
       <p>Job search product launched through LinkedIn, Product Hunt, and launch platforms, reaching 1,000+ visitors during early distribution.</p>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <a href="https://github.com/Mikedan37/BlazeDB">
+        <img src="https://img.shields.io/badge/BlazeDB-Open%20Source-58a6ff?style=for-the-badge" />
+      </a>
+      <br/><br/>
+      <p>Embedded database with durable writes, schema validation, and crash recovery. Open sourced.</p>
     </td>
   </tr>
 </table>
