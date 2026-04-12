@@ -38,12 +38,9 @@
 
 <br/>
 
-<h2>
-  <img src="https://img.shields.io/badge/%20-0d1117?style=flat-square&logo=github&logoColor=58a6ff" height="20" />
-  &nbsp;Things I've Built
-</h2>
+## Things I've Built
 
-<blockquote>Open-source infrastructure and tooling — built from scratch.</blockquote>
+> Open-source infrastructure and tooling — built from scratch.
 
 <table>
   <thead>
@@ -86,12 +83,9 @@
 
 <br/>
 
-<h2>
-  <img src="https://img.shields.io/badge/%20-0d1117?style=flat-square&logo=rocket&logoColor=58a6ff" height="20" />
-  &nbsp;Shipped Products
-</h2>
+## Shipped Products
 
-<blockquote>Real products, real users — built end to end and launched.</blockquote>
+> Real products, real users — built end to end and launched.
 
 <table>
   <tr>
@@ -120,26 +114,16 @@
 
 <br/>
 
-<h2>
-  <img src="https://img.shields.io/badge/%20-0d1117?style=flat-square&logo=target&logoColor=58a6ff" height="20" />
-  &nbsp;What I Work On
-</h2>
+## Focus Areas
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/▸-58a6ff?style=flat-square&labelColor=58a6ff" height="12" /> &nbsp; Systems that stay reliable under edge cases and failure</td>
+    <td width="50%"><strong>Reliability & Correctness</strong><br/><sub>Systems that handle edge cases and failure without surprises. Validation over assumption.</sub></td>
+    <td width="50%"><strong>Developer Tooling</strong><br/><sub>Reducing debugging and operational friction through better primitives.</sub></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/▸-58a6ff?style=flat-square&labelColor=58a6ff" height="12" /> &nbsp; Developer tooling that reduces debugging and operational friction</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/▸-58a6ff?style=flat-square&labelColor=58a6ff" height="12" /> &nbsp; Validation and correctness instead of "hope it works"</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/▸-58a6ff?style=flat-square&labelColor=58a6ff" height="12" /> &nbsp; Low-level infrastructure: storage, protocols, IPC, and embedded systems</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/▸-58a6ff?style=flat-square&labelColor=58a6ff" height="12" /> &nbsp; Product-facing systems that reach real users</td>
+    <td><strong>Low-Level Infrastructure</strong><br/><sub>Storage engines, custom protocols, IPC, and embedded systems.</sub></td>
+    <td><strong>Product Engineering</strong><br/><sub>Shipping real software to real users — not just prototypes.</sub></td>
   </tr>
 </table>
 
@@ -151,7 +135,7 @@
 
 <div align="center">
 
-<h3>Let's Connect</h3>
+### Let's Connect
 
 <a href="https://www.linkedin.com/in/michael-danylchuk-817b40148">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
