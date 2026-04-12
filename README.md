@@ -4,8 +4,8 @@
 
 <br/>
 
-Systems engineer. Previously **Apple** · Internal Tools · **Trust & Safety**  
-Now building infrastructure and developer tools at **Danylchuk Studios**
+Systems engineer. Previously **Apple** · Mac Catalyst · DeviceCheck & App Attest  
+Now building infrastructure, developer tools, and product-facing systems.
 
 <br/>
 
@@ -62,7 +62,7 @@ Now building infrastructure and developer tools at **Danylchuk Studios**
         <img src="https://img.shields.io/badge/SweepDesk-Visit%20Site-58a6ff?style=for-the-badge" />
       </a>
       <br/><br/>
-      <p>macOS utility with a transaction-based file engine, crash recovery, and automated organization. Shipped and in use.</p>
+      <p>macOS utility for desktop organization, built on a transaction-based file engine with crash recovery.</p>
     </td>
     <td align="center" width="50%">
       <br/>
@@ -70,7 +70,7 @@ Now building infrastructure and developer tools at **Danylchuk Studios**
         <img src="https://img.shields.io/badge/Seeker-Visit%20Site-58a6ff?style=for-the-badge" />
       </a>
       <br/><br/>
-      <p>Job search tool launched on LinkedIn and Product Hunt. 1,000+ visitors during early distribution testing.</p>
+      <p>Job search product launched through LinkedIn, Product Hunt, and launch platforms, reaching 1,000+ visitors during early distribution.</p>
     </td>
   </tr>
 </table>
