@@ -4,22 +4,8 @@
 
 <br/>
 
-<h4>Systems Engineer · Previously @ <img src="https://img.shields.io/badge/Apple-000000?style=flat&logo=apple&logoColor=white" height="18" /></h4>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Mac%20Catalyst-161b22?style=flat-square" height="22" />
-      <br/>
-      <sub>Developer Tools</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Trust%20%26%20Safety-161b22?style=flat-square" height="22" />
-      <br/>
-      <sub>DeviceCheck & App Attestation</sub>
-    </td>
-  </tr>
-</table>
+Previously @ **Apple**  
+Developer Tools on **Mac Catalyst** · DeviceCheck & App Attestation on **Trust & Safety**
 
 Now building infrastructure, developer tools, and product-facing systems.
 
