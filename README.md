@@ -5,45 +5,60 @@
 </p>
 
 <p>
-  I build systems for real products, with a focus on reliability and failure handling.
+  I build systems that still behave when things go wrong, especially in products people actually use.
 </p>
 
 <p>
   Previously built internal tools used across Apple engineering teams and worked on Trust & Safety systems.
 </p>
 
+<p>
+  <a href="https://github.com/Mikedan37?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20Source-Projects-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/michael-danylchuk-817b40148">
+    <img src="https://img.shields.io/badge/LinkedIn-Michael-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mn_danylchuk@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-444444?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-## Selected Work
+## Work
 
-**BlazeDB**  
+### <a href="https://github.com/Mikedan37/BlazeDB">BlazeDB</a>  
 Embedded database focused on durability, validation, and predictable behavior.
 
-**BlazeTransport**  
+### <a href="https://github.com/Mikedan37/BlazeTransport">BlazeTransport</a>  
 UDP transport prototype exploring reliability and multiplexing beyond TCP.
 
-**BlazeBinary**  
+### <a href="https://github.com/Mikedan37/BlazeBinary">BlazeBinary</a>  
 Binary encoding and framing layer for agent IPC and embedded systems.
 
-**BlazeFSM**  
+### <a href="https://github.com/Mikedan37/BlazeFSM">BlazeFSM</a>  
 Finite state machine engine for deterministic and inspectable workflows.
 
-**daemon-inspector**  
+### <a href="https://github.com/Mikedan37/daemon-inspector">daemon-inspector</a>  
 CLI tool for observing macOS launchd daemon behavior over time.
 
-**MIDIKeyboard-SoundEngine**  
+### <a href="https://github.com/Mikedan37/MIDIKeyboard-SoundEngine">MIDIKeyboard-SoundEngine</a>  
 RP2040-based MIDI keyboard with custom firmware and real-time synthesis.
 
 ---
 
-## Focus
+## What I Work On
 
-`Swift` `Systems Design` `Developer Tools` `Validation` `Embedded Systems` `Protocols` `Security`
+- Systems that don’t fall apart under edge cases  
+- Developer tooling that makes debugging less painful  
+- Validation and reliability instead of “hope it works”  
+- Low-level stuff: storage, protocols, IPC, embedded
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/michael-danylchuk-817b40148  
-- GitHub: https://github.com/Mikedan37  
-- Email: mn_danylchuk@yahoo.com  
+- [LinkedIn](https://www.linkedin.com/in/michael-danylchuk-817b40148)  
+- [GitHub](https://github.com/Mikedan37)  
+- [Email](mailto:mn_danylchuk@yahoo.com)
