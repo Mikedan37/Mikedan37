@@ -1,56 +1,52 @@
-# Michael Danylchuk  
-### Developer Tools & Automation Engineer | macOS • Systems • Security
+**Michael Danylchuk**
 
-I build systems that enforce correctness.
+Developer Tools, Systems, and Security Engineer
 
-My work focuses on developer tooling, validation infrastructure, and reliability — from macOS tools to embedded systems and custom protocols.
+I build reliable software tools and systems that are designed to work correctly, even when things go wrong.
 
-Previously built internal tools used across Apple engineering teams and contributed to Trust & Safety systems (App Attest, validation tooling, rate limiting).
+My work includes developer tooling, automation, validation infrastructure, and systems projects across macOS, backend services, embedded hardware, and custom protocols.
 
----
+I’ve previously built internal tools used across Apple engineering teams and contributed to Trust & Safety systems, including App Attest tooling, validation infrastructure, and rate limiting.
 
-## What I Do
+What I Do
+	•	Build developer tools and automation systems that make complex work easier to debug and maintain
+	•	Design validation and testing infrastructure that improves reliability
+	•	Work across macOS tools, backend systems, embedded projects, and low-level protocols
+	•	Focus on performance, failure handling, and building systems that behave predictably
 
-- Build developer tools and automation systems that reduce debugging time and enforce correctness  
-- Design validation frameworks, CI workflows, and reliability-focused infrastructure  
-- Work across the stack: macOS tooling, backend systems, embedded firmware, and protocols  
-- Focus on performance, failure handling, and deterministic behavior  
+Selected Projects
 
----
+BlazeDB
 
-## Selected Projects
+A Swift-native embedded database engine with write-ahead logging, transactions, and a full query DSL. Built with a strong focus on durability, validation, and reliability.
 
-### BlazeDB  
-Swift-native embedded database engine with WAL, ACID transactions, and a full query DSL.  
-Includes extensive durability validation (6,800+ test cases) with CI-enforced correctness.
+BlazeTransport
 
-### BlazeTransport  
-QUIC-inspired UDP transport prototype exploring multiplexing, RTT estimation, and reliability mechanisms without TCP head-of-line blocking.
+A transport prototype inspired by QUIC, built to explore reliability, multiplexing, and performance over UDP.
 
-### SweepDesk  
-macOS menu bar utility built on a transaction-based file engine with crash recovery guarantees.
+SweepDesk
 
-### Developer Tooling  
-CLI tools, macOS utilities, and automation workflows focused on storage, security, and concurrency.
+A macOS menu bar utility built on a transaction-based file engine with crash recovery and reliability guarantees.
 
-### Embedded Systems  
-Velocity-sensitive MIDI keyboard (RP2040) with custom firmware, matrix scanning, and real-time audio synthesis.
+AppAttestDecoder
 
----
+A Swift library and CLI for decoding Apple App Attest artifacts into readable, inspectable outputs.
 
-## Areas of Focus
+MIDIKeyboard-SoundEngine
 
-- Swift, C, concurrency, systems design  
-- Developer tools & automation infrastructure  
-- Validation systems and CI/CD enforcement  
-- Embedded firmware and hardware integration  
-- Protocol design and binary formats  
-- Security-oriented architecture  
+An open-source velocity-sensitive USB MIDI keyboard built on RP2040 with custom firmware and real-time sound generation.
 
----
+Areas of Focus
+	•	Swift, C, systems design
+	•	Developer tools and automation
+	•	Reliability and validation systems
+	•	Embedded systems and hardware integration
+	•	Protocol design and binary formats
+	•	Security-focused architecture
 
-## Links
+Links
+	•	Email: mn_danylchuk@yahoo.com
+	•	LinkedIn: https://www.linkedin.com/in/michael-danylchuk-817b40148
+	•	GitHub: https://github.com/Mikedan37
 
-- Email: mn_danylchuk@yahoo.com  
-- LinkedIn: https://www.linkedin.com/in/michael-danylchuk-817b40148  
-- GitHub: https://github.com/Mikedan37
+This version is better because it still sounds like you know what you’re doing, but it doesn’t make the reader feel like they need a kernel engineering badge to continue. If you want, I can make it one notch more polished and recruiter-friendly without turning it into LinkedIn sludge.
