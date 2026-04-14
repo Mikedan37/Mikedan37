@@ -68,7 +68,7 @@ Now building developer tooling and systems infrastructure focused on reliability
         <img src="https://img.shields.io/badge/Seeker-Visit%20Site-58a6ff?style=for-the-badge" />
       </a>
       <br/><br/>
-      <p>Job search product launched through LinkedIn, Product Hunt, and launch platforms, reaching 1,000+ visitors during early distribution.</p>
+      <p>Job search system built to explore distribution, funnel conversion, and product-market feedback loops.</p>
     </td>
   </tr>
   <tr>
