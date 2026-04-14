@@ -78,7 +78,7 @@ Now building developer tooling and systems infrastructure focused on reliability
         <img src="https://img.shields.io/badge/BlazeDB-Open%20Source-58a6ff?style=for-the-badge" />
       </a>
       <br/><br/>
-      <p>Embedded database with durable writes, schema validation, and crash recovery. Open sourced.</p>
+      <p>Swift UI Apis, embedded database with durable writes, schema validation, and crash recovery. Open sourced.</p>
     </td>
   </tr>
 </table>
