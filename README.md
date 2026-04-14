@@ -7,7 +7,7 @@
 Previously @ **Apple**  
 Developer Tools on **Mac Catalyst** · DeviceCheck & App Attestation on **Trust & Safety**
 
-Now building infrastructure, developer tools, and product-facing systems.
+Now building developer tooling and systems infrastructure focused on reliability, debugging, and execution workflows.
 
 <br/>
 
