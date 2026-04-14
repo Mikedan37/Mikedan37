@@ -31,10 +31,6 @@ Now building infrastructure, developer tools, and product-facing systems.
     <td>Embedded database with durable writes, schema validation, and crash recovery.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Mikedan37/BlazeTransport"><strong>BlazeTransport</strong></a></td>
-    <td>UDP transport layer exploring reliability and multiplexing beyond TCP.</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/Mikedan37/BlazeBinary"><strong>BlazeBinary</strong></a></td>
     <td>Binary encoding and framing for agent IPC and embedded systems.</td>
   </tr>
