@@ -77,6 +77,10 @@ Now building developer tooling and systems infrastructure focused on reliability
       <a href="https://github.com/Mikedan37/BlazeDB">
         <img src="https://img.shields.io/badge/BlazeDB-Open%20Source-58a6ff?style=for-the-badge" />
       </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/sponsors/Mikedan37">
+        <img src="https://img.shields.io/badge/%E2%99%A1%20Sponsor-ff69b4?style=for-the-badge" />
+      </a>
       <br/><br/>
       <p>Swift UI Apis, embedded database with durable writes, schema validation, and crash recovery. Open sourced.</p>
     </td>
