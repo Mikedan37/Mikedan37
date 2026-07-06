@@ -4,7 +4,7 @@
 
 <br/>
 
-Previously @ **Apple**  
+Previously a 2 x Intern @ **Apple**  
 Developer Tools on **Mac Catalyst** · DeviceCheck & App Attestation on **Trust & Safety**
 
 Building developer infrastructure, embedded databases, and AI-powered tooling focused on reliability, debugging, and execution workflows.
