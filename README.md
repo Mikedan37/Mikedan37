@@ -4,15 +4,19 @@
 
 <br/>
 
-2× **Apple** Software Engineering Intern 
+2× **Apple** Software Engineering Intern  
+
 Developer Tools (Mac Catalyst) • DeviceCheck & App Attestation (Trust & Safety)
 
 Software engineer building developer infrastructure, embedded databases, and AI-powered tooling for reliable execution and debugging.
 
-Currently Working On
-• BlazeDB
-• SeekerScore.com 
-• Swift Package Manager contributions
+**Currently Working On**
+
+- BlazeDB
+
+- SeekerScore.com
+
+- Contributing to Swift Package Manager
 
 <br/>
 
