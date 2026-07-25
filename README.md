@@ -6,7 +6,7 @@
 
 ## 2× **Apple** Software Engineering Intern
 
-Developer Tools (Mac Catalyst) • DeviceCheck & App Attestation (Trust & Safety)
+Developer Tools (Mac Catalyst) • Developer Fraud Prevention & DeviceCheck (Trust & Safety)
 
 <br/>
 
