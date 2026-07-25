@@ -4,97 +4,107 @@
 
 <br/>
 
-2× **Apple** Software Engineering Intern  
+## 2× **Apple** Software Engineering Intern
 
 Developer Tools (Mac Catalyst) • DeviceCheck & App Attestation (Trust & Safety)
 
-Software engineer building developer infrastructure, embedded databases, and AI-powered tooling for reliable execution and debugging.
-
-**Currently Working On**
-
-- BlazeDB
-
-- SeekerScore.com
-
-- Contributing to Swift Package Manager
-
 <br/>
 
-<a href="https://github.com/Mikedan37?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/michael-danylchuk-817b40148"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;&nbsp;
-<a href="mailto:mn_danylchuk@yahoo.com"><img src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+Software engineer building developer infrastructure, embedded databases, and AI-powered tooling focused on reliability, debugging, and execution.
 
-<br/>
+<br/><br/>
+
+### Currently Working On
+
+BlazeDB<br/>
+SeekerScore.com<br/>
+Contributing to Swift Package Manager
+
+<br/><br/>
+
+<a href="https://github.com/Mikedan37?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/michael-danylchuk-817b40148">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:mn_danylchuk@yahoo.com">
+<img src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<br/>
+---
 
-## Things I've Built
+# Things I've Built
+
+| Project | Description |
+|---------|-------------|
+| **[BlazeDB](https://github.com/Mikedan37/BlazeDB)** | Embedded database with durable writes, schema validation, and crash recovery. |
+| **[BlazeBinary](https://github.com/Mikedan37/BlazeBinary)** | Binary serialization and framing for embedded systems and agent IPC. |
+| **[BlazeFSM](https://github.com/Mikedan37/BlazeFSM)** | Deterministic finite state machine engine with inspectable workflows. |
+| **[daemon-inspector](https://github.com/Mikedan37/daemon-inspector)** | CLI for observing macOS `launchd` daemon behavior over time. |
+| **[MIDIKeyboard-SoundEngine](https://github.com/Mikedan37/MIDIKeyboard-SoundEngine)** | RP2040-based MIDI keyboard with custom firmware and real-time audio synthesis. |
+
+---
+
+# Shipped Products
 
 <table>
-  <tr>
-    <td width="220"><a href="https://github.com/Mikedan37/BlazeDB"><strong>BlazeDB</strong></a></td>
-    <td>Embedded database with durable writes, schema validation, and crash recovery.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mikedan37/BlazeBinary"><strong>BlazeBinary</strong></a></td>
-    <td>Binary encoding and framing for agent IPC and embedded systems.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mikedan37/BlazeFSM"><strong>BlazeFSM</strong></a></td>
-    <td>Finite state machine engine for deterministic, inspectable workflows.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mikedan37/daemon-inspector"><strong>daemon-inspector</strong></a></td>
-    <td>CLI for observing macOS launchd daemon behavior over time.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Mikedan37/MIDIKeyboard-SoundEngine"><strong>MIDIKeyboard-SoundEngine</strong></a></td>
-    <td>RP2040-based MIDI keyboard with custom firmware and real-time synthesis.</td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+
+### SweepDesk
+
+<a href="https://www.sweepdesk.danylchukstudios.dev">
+<img src="https://img.shields.io/badge/Visit%20Site-58a6ff?style=for-the-badge" />
+</a>
+
+macOS utility for desktop organization built on a transaction-based file engine with crash recovery.
+
+</td>
+
+<td align="center" width="50%">
+
+### SeekerScore
+
+<a href="https://www.seekerscore.com">
+<img src="https://img.shields.io/badge/Visit%20Site-58a6ff?style=for-the-badge" />
+</a>
+
+AI-powered job search platform for resume analysis, job matching, and application workflows.
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## Shipped Products
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <br/>
-      <a href="https://www.sweepdesk.danylchukstudios.dev">
-        <img src="https://img.shields.io/badge/SweepDesk-Visit%20Site-58a6ff?style=for-the-badge" />
-      </a>
-      <br/><br/>
-      <p>macOS utility for desktop organization, built on a transaction-based file engine with crash recovery.</p>
-    </td>
-    <td align="center" width="50%">
-      <br/>
-      <a href="https://www.seekerscore.com">
-        <img src="https://img.shields.io/badge/Seeker-Visit%20Site-58a6ff?style=for-the-badge" />
-      </a>
-      <br/><br/>
-      <p>AI-powered job search platform for resume analysis, job matching, and application workflows, used to study product distribution and conversion funnels.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br/>
-      <a href="https://github.com/Mikedan37/BlazeDB">
-        <img src="https://img.shields.io/badge/BlazeDB-Open%20Source-58a6ff?style=for-the-badge" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://github.com/sponsors/Mikedan37">
-        <img src="https://img.shields.io/badge/%E2%99%A1%20Sponsor-ff69b4?style=for-the-badge" />
-      </a>
-      <br/><br/>
-      <p>Swift UI Apis, embedded database with durable writes, schema validation, and crash recovery. Open sourced.</p>
-    </td>
-  </tr>
-</table>
+### Open Source
+
+<a href="https://github.com/Mikedan37/BlazeDB">
+<img src="https://img.shields.io/badge/BlazeDB-Open%20Source-58a6ff?style=for-the-badge" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/sponsors/Mikedan37">
+<img src="https://img.shields.io/badge/Sponsor-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+</a>
+
+<br/><br/>
+
+Swift APIs for an embedded database featuring durable writes, schema validation, and crash recovery.
+
+</div>
 
 <br/>
 
