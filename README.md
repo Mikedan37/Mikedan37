@@ -4,10 +4,15 @@
 
 <br/>
 
-Previously a 2 x Intern @ **Apple**  
-Developer Tools on **Mac Catalyst** · DeviceCheck & App Attestation on **Trust & Safety**
+2× **Apple** Software Engineering Intern 
+Developer Tools (Mac Catalyst) • DeviceCheck & App Attestation (Trust & Safety)
 
-Building developer infrastructure, embedded databases, and AI-powered tooling focused on reliability, debugging, and execution workflows.
+Software engineer building developer infrastructure, embedded databases, and AI-powered tooling for reliable execution and debugging.
+
+Currently Working On
+• BlazeDB
+• SeekerScore.com 
+• Swift Package Manager contributions
 
 <br/>
 
@@ -68,7 +73,7 @@ Building developer infrastructure, embedded databases, and AI-powered tooling fo
         <img src="https://img.shields.io/badge/Seeker-Visit%20Site-58a6ff?style=for-the-badge" />
       </a>
       <br/><br/>
-      <p>Job search system built to explore distribution, funnel conversion, and product-market feedback loops.</p>
+      <p>AI-powered job search platform for resume analysis, job matching, and application workflows, used to study product distribution and conversion funnels.</p>
     </td>
   </tr>
   <tr>
