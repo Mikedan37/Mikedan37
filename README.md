@@ -62,7 +62,7 @@ Contributing to Swift Package Manager
 
 ### SweepDesk
 
-<a href="https://www.sweepdesk.danylchukstudios.dev">
+<a href="[https://www.sweepdesk.danylchukstudios.dev](https://sweepdesk.danylchukstudios.dev/sweepdesk)">
 <img src="https://img.shields.io/badge/Visit%20Site-58a6ff?style=for-the-badge" />
 </a>
 
